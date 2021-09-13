@@ -5,7 +5,7 @@ A containerized workstation for using Lidar and other geospatial data with xpra 
 ### Why a wrtc workstation
 
 The XPRA desktop offers a familar desktop interface that can be used either from a cloud computing environment or in a local container.  
-This is a reference implementation that allows partners to 
+This is a reference implementation that allows partners to retain an functioning container image with specific tools for point cloud manipulation and analysis.  
 
 ### What is going into the WRTC workstation
 
